@@ -1742,4 +1742,8 @@ html[dir='rtl'] .itemside .info {
   transition: 0.3s;
 }
 
+.container {
+  width: 144px !important;
+}
+
 /*# sourceMappingURL=ui.css.map */
