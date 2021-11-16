@@ -1414,6 +1414,7 @@ a[class*='card']:hover .title {
 .nav-home-aside .menu-category a:hover {
   color: #ff6a00;
   -webkit-transition: all 0.3s;
+  transition: all .3s;
 }
 
 .nav-home-aside .menu-category li:hover .submenu {

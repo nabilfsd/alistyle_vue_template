@@ -1,6 +1,6 @@
 <template>
   <div id="section-footer">
-    <footer class="section-footer bg-secondary">
+    <footer class="section-footer">
     <div class="container">
       <section class="footer-top padding-y-lg text-white">
         <div class="row">
