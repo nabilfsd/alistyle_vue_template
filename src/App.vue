@@ -46,4 +46,7 @@ export default {
   text-decoration: none;
 }
 
+.container {
+  width: 1400px !important;
+}
 </style>

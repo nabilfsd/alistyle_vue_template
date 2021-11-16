@@ -4,6 +4,7 @@ import router from './router'
 
 import jQuery from 'jquery'
 
+import 'bootstrap/dist/css/bootstrap.min.css'
 // custom css
 // import './assets/css/nav-sidebar.css'
 import './assets/fonts/font-awesome-5/css/all.min.css'
@@ -12,7 +13,6 @@ import './assets/css/responsive.css'
 
 import 'popper.js'
 import 'bootstrap'
-import 'bootstrap/dist/css/bootstrap.min.css'
 window.$ = window.jQuery = jQuery
 
 // custom scripts
