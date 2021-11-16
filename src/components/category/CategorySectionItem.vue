@@ -1,0 +1,154 @@
+<template>
+  <div id="category-section-item">
+    <section class="padding-bottom-sm">
+      <header class="section-heading heading-line">
+        <h4 class="title-section text-uppercase">Recommended items</h4>
+      </header>
+
+      <div class="row row-sm">
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/1.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Just another product name</a>
+              <div class="price mt-1">$179.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/2.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Some item name here</a>
+              <div class="price mt-1">$280.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/3.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Great product name here</a>
+              <div class="price mt-1">$56.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/4.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Just another product name</a>
+              <div class="price mt-1">$179.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/5.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Just another product name</a>
+              <div class="price mt-1">$179.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/6.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Some item name here</a>
+              <div class="price mt-1">$280.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/7.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Great product name here</a>
+              <div class="price mt-1">$56.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/9.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Just another product name</a>
+              <div class="price mt-1">$179.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/4.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Just another product name</a>
+              <div class="price mt-1">$179.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/5.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Just another product name</a>
+              <div class="price mt-1">$179.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/6.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Some item name here</a>
+              <div class="price mt-1">$280.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+        <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+          <div class="card card-sm card-product-grid">
+            <a href="#" class="img-wrap"> <img :src="require('../../assets/img/items/7.jpg')" /> </a>
+            <figcaption class="info-wrap">
+              <a href="#" class="title">Great product name here</a>
+              <div class="price mt-1">$56.00</div>
+              <!-- price-wrap.// -->
+            </figcaption>
+          </div>
+        </div>
+        <!-- col.// -->
+      </div>
+      <!-- row.// -->
+    </section>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'CategorySectionItem'
+}
+</script>
+
+<style scoped>
+</style>
